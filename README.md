@@ -16,6 +16,10 @@ Please submit issue if you find error, any feedback higly appreciated 🙏
 | City/Regency | High-res | Simplified |
 | ------ | -- | -- |
 | 1. South Jakarta | [File](city-regency/id-jk-jaksel.geojson) | [File](city-regency-simplified/id-jk-jaksel.min.geojson) |
+| 2. East Jakarta | [File](city-regency/id-jk-jaktim.geojson) | [File](city-regency-simplified/id-jk-jaktim.min.geojson) |
+| 3. Central Jakarta | [File](city-regency/id-jk-jakpus.geojson) | [File](city-regency-simplified/id-jk-jakpus.min.geojson) |
+| 4. West Jakarta | [File](city-regency/id-jk-jakbar.geojson) | [File](city-regency-simplified/id-jk-jakbar.min.geojson) |
+| 5. North Jakarta | [File](city-regency/id-jk-jakut.geojson) | [File](city-regency-simplified/id-jk-jakut.min.geojson) |
 
 ## Version Logs
 ### 0.1
@@ -23,4 +27,4 @@ Please submit issue if you find error, any feedback higly appreciated 🙏
 2. Add cities in Jakarta
 3. Add cities and regencies in East Java (Kota Mojokerto isn't available in the map due to missing data from the source)
 4. Add simplified version, generated via [mapshaper](https://mapshaper.org )
-5. Add South Jakarta
+5. Add South Jakarta, East Jakarta, Central Jakarta, North Jakarta
