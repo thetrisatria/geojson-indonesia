@@ -99,7 +99,7 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"name": " "
+				"name": "Cakung"
 			},
             "geometry": {
                 "type": "MultiPolygon",
